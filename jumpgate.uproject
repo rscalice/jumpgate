@@ -1,0 +1,145 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "jumpgate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "PoseSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "HairStrands",
+			"Enabled": true
+		},
+		{
+			"Name": "Chooser",
+			"Enabled": true
+		},
+		{
+			"Name": "Mover",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPrediction",
+			"Enabled": true
+		},
+		{
+			"Name": "DrawDebugLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "Locomotor",
+			"Enabled": true
+		},
+		{
+			"Name": "CurveExpression",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "BpGeneratorUltimate",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/8d776721-5da3-44ce-b7ef-be17a023be59"
+		},
+		{
+			"Name": "VaRestX",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamCore",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5300c1dc33f74524bcad23bdeb9b2196"
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": false
+		},
+		{
+			"Name": "MetaHumanCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaHuman",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "MetaHumanCoreTech",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "MetaHumanCalibrationProcessing",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "MetaHumanLiveLink",
+			"Enabled": true
+		},
+		{
+			"Name": "RMAMirrorAnimation",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3078940d2e5a4fabb31375f909609b90"
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		}
+	]
+}
