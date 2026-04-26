@@ -88,6 +88,10 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/8d776721-5da3-44ce-b7ef-be17a023be59"
 		},
 		{
+			"Name": "AIAssistant",
+			"Enabled": true
+		},
+		{
 			"Name": "VaRestX",
 			"Enabled": false
 		},
@@ -101,44 +105,16 @@
 			"Enabled": false
 		},
 		{
-			"Name": "MetaHumanCharacter",
-			"Enabled": true
-		},
-		{
-			"Name": "MetaHuman",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "MetaHumanCoreTech",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "MetaHumanCalibrationProcessing",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "MetaHumanLiveLink",
-			"Enabled": true
-		},
-		{
 			"Name": "RMAMirrorAnimation",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3078940d2e5a4fabb31375f909609b90"
 		},
 		{
 			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		},
+		{
+			"Name": "MetaHumanCharacter",
 			"Enabled": true
 		},
 		{
