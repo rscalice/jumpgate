@@ -8,8 +8,9 @@ public class jumpgateEditorTarget : TargetRules
 	public jumpgateEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
+		DefaultBuildSettings = BuildSettingsVersion.Latest;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		ExtraModuleNames.AddRange( new string[] { "jumpgate" } );
+        ExtraModuleNames.AddRange( new string[] { "jumpgate" } );
 	}
 }
